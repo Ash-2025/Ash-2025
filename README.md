@@ -5,6 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-15-d" alt="yash-15-d" /></a> </p>
 
+- 🔭 I’m currently working on **Age calculator by FEM**
+
+- 🌱 I’m currently learning **React , tailwind and motion dev animation library**
+
+- 👯 I’m looking to collaborate on **JS Projects by FEM**
+
+- 💬 Ask me about **HTML CSS JS REACT**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -17,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-15-d&show_icons=true&locale=en" alt="yash-15-d" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-15-d&" alt="yash-15-d" /></p>
-
