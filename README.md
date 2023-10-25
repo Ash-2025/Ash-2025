@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Age calculator by FEM**
 
-- 🌱 I’m currently learning **React , tailwind and motion one animation library**
+- 🌱 I’m currently learning **React , tailwind and GSAP animation library**
 
 - 👯 I’m looking to collaborate on **JS Projects by FEM**
 
