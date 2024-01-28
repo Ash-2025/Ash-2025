@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-15-d" alt="yash-15-d" /></a> </p>
 
-- 🔭 I’m currently working on **AnimeQuotes**
+- 🔭 I’m currently working on **AnimeQuotes App using React Native**
 
 - 🌱 I’m currently learning **React Native**
 
