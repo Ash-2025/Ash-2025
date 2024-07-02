@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm yash</h1>
-<h3 align="center">Passionate React Native and Node/Express.js Developer | 🚀 Building awesome mobile experiences | 🇮🇳 Based in India</h3>
+<h3 align="center">Passionate React and Node/Express.js Developer | 🚀 Building awesome mobile experiences | 🇮🇳 Based in India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-15-d&label=Profile%20views&color=0e75b6&style=flat" alt="yash-15-d" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-15-d" alt="yash-15-d" /></a> </p>
 
-- 🔭 I’m currently working on **AnimeQuotes App using React Native**
+- 🔭 I’m currently working on **Spotify clone using my API**
 
 - 🌱 I’m currently learning **React Native**
 
