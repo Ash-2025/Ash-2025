@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-15-d&label=Profile%20views&color=0e75b6&style=flat" alt="yash-15-d" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-15-d" alt="yash-15-d" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-15-d" alt="Ash-2025" /></a> </p>
 
-- 🔭 I’m currently working on **Spotify clone using my music API**
+- 🔭 I’m currently working on **OpenCV cpp video stabilization**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **OpenCV**
 
-- 💬 Ask me about **HTML CSS JS REACT Native NodeJS ExpressJS**
+- 💬 Ask me about **HTML CSS JS REACT Native NodeJS ExpressJS C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
