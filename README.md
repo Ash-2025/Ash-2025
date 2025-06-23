@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-15-d" alt="Ash-2025" /></a> </p>
 
-- 🔭 I’m currently working on **OpenCV cpp video stabilization**
+- 🔭 I’m currently working on **building a video transcoding web app using docker ffmpeg and kafka**
 
-- 🌱 I’m currently learning **OpenCV**
+- 🌱 I’m currently learning **docker and kafka**
 
-- 💬 Ask me about **HTML CSS JS REACT Native NodeJS ExpressJS C++**
+- 💬 Ask me about **HTML CSS JS REACT NodeJS ExpressJS C++ Bun Hono Docker Redis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
