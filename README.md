@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm yash</h1>
-<h3 align="center">Passionate React and Node/Express.js Developer | 🚀 Building awesome mobile experiences | 🇮🇳 Based in India</h3>
+<h3 align="center">Passionate Backend Developer | 🚀 Building stuff with docker, kafka, redis | 🇮🇳 Based in India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-15-d&label=Profile%20views&color=0e75b6&style=flat" alt="yash-15-d" /> </p>
 
